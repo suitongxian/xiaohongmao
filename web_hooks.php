@@ -4,4 +4,4 @@ echo 'hello!';
 
 
 
-exec('git pull origin master');
+exec('git pull origin master 2>> gitpull.log');
